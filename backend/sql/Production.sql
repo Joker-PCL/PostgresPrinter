@@ -1,0 +1,3 @@
+SELECT *
+FROM production
+ORDER BY id DESC
